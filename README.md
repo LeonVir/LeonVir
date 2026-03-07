@@ -1,14 +1,19 @@
 # Park Dongmyung (LeonVir)
 
-<div align="Left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir" />
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" />
+<div align="left">
+  <a href="https://codeforces.com/profile/LeonVir" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir" alt="Codeforces Stats" />
+  </a>
+  
+  <a href="https://www.acmicpc.net/user/ping378" target="_blank">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" alt="Boj Badge" />
+  </a>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently studing on **University of Manchester**
+- 🔭 I’m currently studying at the **University of Manchester**
 - 🌱 I’m currently learning **AI**
 - 💬 Ask me about **Computer Science / Game Dev / AI / Robotics**
 
@@ -19,4 +24,6 @@
 ---
 
 ### 🛠 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* **Languages:** C++, Python, Java
+* **Tools & Technologies:** Git, ROS (Robotics), PyTorch (AI)
+* **CS Fundamentals:** Algorithms, Data Structures
