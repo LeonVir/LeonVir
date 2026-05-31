@@ -2,12 +2,12 @@
 
 ### 🏆 Competitive Programming Stats
 
-#### 💻 Codeforces
+#### 🥇 Codeforces
 <a href="https://codeforces.com/profile/LeonVir3" target="_blank">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir3" alt="Codeforces Stats" />
 </a>
 
-#### 🥇 LeetCode Stats
+#### 💻 LeetCode Stats
 <a href="https://leetcode.com/u/LeonVir/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/LeonVir?theme=dark&font=Istok%20Web&ext=contest" alt="LeetCode Card" />
 </a>
@@ -26,6 +26,6 @@
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** C++, Python, Java
+* **Languages:** C++, Python
 * **Tools & Technologies:** Git, ROS (Robotics), PyTorch (AI)
-* **CS Fundamentals:** Algorithms, Data Structures
+* **CS Fundamentals:** Algorithms, Data Structures, Operating System
