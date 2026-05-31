@@ -1,4 +1,4 @@
-# Park Dongmyung (LeonVir)
+# Park Dongmyung
 
 ### 🏆 Competitive Programming Stats
 
