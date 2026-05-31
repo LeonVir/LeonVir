@@ -20,7 +20,7 @@
 - 💬 Ask me about **Computer Science / Game Dev / AI / Robotics**
 
 ### 📫 Contact & Socials
-- 📧 **Email:** [dametime1245@gmail.com](mailto:dametime1245@gmail.com)
+- 📧 **Email:** [dametime1245@gmail.com](mailto:dongmyungpark378@gmail.com)
 - 💬 **Discord:** `-`
 
 ---
