@@ -3,8 +3,8 @@
 ### 🏆 Competitive Programming Stats
 
 #### 🥇 Codeforces
-<a href="https://codeforces.com/profile/LeonVir3" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir3" alt="Codeforces Stats" />
+<a href="https://codeforces.com/profile/Dongmyung378" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dongmyung378" alt="Codeforces Stats" />
 </a>
 
 #### 💻 LeetCode Stats
